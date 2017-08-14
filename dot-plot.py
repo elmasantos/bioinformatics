@@ -16,7 +16,6 @@ def dotplot(sequenceA, sequenceB):
 				aa += "."
 		aa += '\n'
 		print(aa)
-
 		
 sequenceA = input()
 sequenceB = input()
